@@ -18,6 +18,13 @@
           <div class="col-8 pt-1">
             <a class="blog-header-logo text-dark" href="/">Django Blog</a>
           </div>
+          <div class="col-4">
+                  <form action="{% url 'search' %}" method="GET">
+              <div class="input-group">
+                <input class="form-control" type="text" name="keyword" value="{{ keyword }}" placeholder="Enter search term..." aria-label="Enter search term..." aria-describedby="button-search" />
+                <button type="submit" class="btn btn-warning" id="button-search" type="button">Go!</button>
+
+          </div>
           <div class="col-4 d-flex justify-content-end align-items-center">
             <a class="btn btn-sm btn-warning" href="#">Login</a> &nbsp;
             <a class="btn btn-sm btn-outline-secondary" href="#">Register</a>
