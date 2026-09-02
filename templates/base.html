@@ -34,7 +34,7 @@
             <a class="btn btn-sm btn-outline-secondary" href="{% url 'register' %}">Register</a>
             {% else %}
           
-         <span>You are loggd in as {{ user }}</span>
+         <span><a href="{% url 'dashboard' %}">Dashboard</a></span>
          &emsp;
             
             <span><a href="{% url 'logout' %}">Logout</a></span>
