@@ -29,5 +29,13 @@ Django 4.x (see requirements.txt) - always use latest version
 A virtual environment tool (venv / virtualenv)
 PostgreSQL / MySQL or SQLite for development
 
+Screenshots
+<img width="1920" height="1020" alt="5" src="https://github.com/user-attachments/assets/64451a8b-c342-464b-9ead-10ea1380464c" />
+<img width="1920" height="1020" alt="4" src="https://github.com/user-attachments/assets/099ec6be-51da-4dfc-9cb2-0aaed216326d" />
+<img width="1920" height="1020" alt="3" src="https://github.com/user-attachments/assets/2100aedb-a862-4ef5-9f63-4299c79c9f12" />
+<img width="1920" height="1020" alt="2" src="https://github.com/user-attachments/assets/36d14924-7724-4a58-8afe-aa4cf3d9ef6d" />
+<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/d5af5274-805f-4bdf-b0d0-d9759bf16367" />
+
+
 ❤️ Support My Work
 All the best.
