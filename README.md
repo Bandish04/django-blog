@@ -30,11 +30,12 @@ A virtual environment tool (venv / virtualenv)
 PostgreSQL / MySQL or SQLite for development
 
 Screenshots
-<img width="1920" height="1020" alt="5" src="https://github.com/user-attachments/assets/53947584-ae2e-4473-81f7-ab58709869d6" />
-<img width="1920" height="1020" alt="4" src="https://github.com/user-attachments/assets/8b39cf7d-27dd-421e-88d8-5ff6745d1476" />
-<img width="1920" height="1020" alt="3" src="https://github.com/user-attachments/assets/6107cfe0-ea0c-4905-93ad-e78a5eb0c0c8" />
-<img width="1920" height="1020" alt="2" src="https://github.com/user-attachments/assets/c7465205-a4f6-4f45-aa14-46e6c0cfd326" />
-<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/70bd2a10-8d61-4ced-9fc9-5b768d3ef630" />
+<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/f2b4f373-2577-4993-9523-047108dfad8e" />
+<img width="1920" height="1020" alt="2" src="https://github.com/user-attachments/assets/c165bb59-09f1-4419-ac6e-8f101bb26781" />
+<img width="1920" height="1020" alt="3" src="https://github.com/user-attachments/assets/55069fa9-d808-4c98-bf9d-15c907c11abb" />
+<img width="1920" height="1020" alt="4" src="https://github.com/user-attachments/assets/66dc8c87-b3ae-42e3-ae66-abb664da26d4" />
+<img width="1920" height="1020" alt="5" src="https://github.com/user-attachments/assets/6eadf5f2-c647-41c2-96e2-c81c9827b0a4" />
+
 
 
 
